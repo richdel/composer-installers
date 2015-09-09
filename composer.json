@@ -1,15 +1,15 @@
 {
-    "name": "aoepeople/composer-installers",
+    "name": "richdel/composer-installers",
     "type": "composer-installer",
     "license": "GPL",
-    "description": "A simple composer installer",
+    "description": "A simple composer installer based on aoepeople/composer-installers",
     "keywords": [
         "installer", "Magento", "modman"
     ],
     "authors": [
         {
-            "name": "Fabrizio Branca",
-            "email": "{firstname}.{lastname}@aoe.com"
+            "name": "Richard Delph",
+            "email": "{firstname}@core.je"
         }
     ],
     "autoload": {
