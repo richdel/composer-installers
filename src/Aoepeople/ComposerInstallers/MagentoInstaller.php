@@ -5,6 +5,7 @@ class MagentoInstaller extends BaseInstaller
 {
     protected $locations = array(
         'module'   => '.modman/{$vendor}_{$name}/',
+        'plugin'   => '.modman/{$vendor}_{$name}/',
         'source'    => 'htdocs/'
     );
 }
